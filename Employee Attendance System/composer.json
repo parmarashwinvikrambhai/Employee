@@ -1,0 +1,22 @@
+{
+    "name": "ashwin/employee",
+    "description": "Employee attendance system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ashwin"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+
+
+        }
+    }
+
+
+}
